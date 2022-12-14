@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsagias/rxjs-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsagias/rxjs-starter/issues"
+  },
+  "homepage": "https://github.com/nsagias/rxjs-starter#readme"
+}
