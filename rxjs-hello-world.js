@@ -1,4 +1,4 @@
-import  { Observable } from "@reactivex/rxjs";
+import  { Observable } from "rxjs";
 
 const oberservable = new Observable ((subscriber) => {
   subscriber.next(1);
